@@ -1,0 +1,4 @@
+rootProject.name = 'task-manager'
+include 'task-manager-spring-boot-starter'
+include 'task-manager-sample'
+
